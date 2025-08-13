@@ -1,0 +1,18 @@
+{
+  "Navbar": {
+    "home": "Inicio",
+    "about": "Acerca de"
+  },
+  "HomeView": {
+    "title": "Inicio",
+    "Hero": "Este es el inicio del sitio!"
+  },
+  "app": {
+    "title": "Mi Aplicación",
+    "welcome": "Bienvenido, {name}!"
+  },
+  "auth": {
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión"
+  }
+}

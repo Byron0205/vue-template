@@ -1,0 +1,18 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About"
+  },
+  "HomeView": {
+    "title": "Home",
+    "Hero": "This is the start of the site!"
+  },
+  "app": {
+    "title": "My Application",
+    "welcome": "Welcome, {name}!"
+  },
+  "auth": {
+    "login": "Sign in",
+    "logout": "Sign out"
+  }
+}
