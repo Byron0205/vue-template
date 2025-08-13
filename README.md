@@ -3,6 +3,7 @@
 - TypeScript
 - Vue Router
 - Tailwindcss
+- Vue I18n
 
 ## Customize configuration
 
